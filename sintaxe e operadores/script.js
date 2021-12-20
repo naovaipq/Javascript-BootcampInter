@@ -26,4 +26,3 @@ function criaSegundaFrase(n1, n2){
 }
 
 console.log(compara(5, 10));
-
